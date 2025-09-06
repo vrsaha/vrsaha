@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @vrsaha
+- 👋 Hi, I’m @varsha
 - 👀 I’m interested in fronteend developer,software engineer and software developer
 - 🌱 I’m currently learning frontend courses of html,javascript,css including python
